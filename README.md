@@ -17,5 +17,6 @@ _Link to dataset on Kaggle: https://www.kaggle.com/brllrb/uber-and-lyft-dataset-
 	- latitude (_latitude of pick-up location_)  
 	- longitude (_longitude of pick-up location_)  
 - Dataset originally contained ~70,000 rides documented between Nov. 26 - Dec. 18, 2018. Analyzed ~64,000 rides after cleaning NA values.  
+
 **Research Questions Addressed in Analysis:**  
 
